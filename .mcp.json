@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "floci-gcp": {
+      "command": "C:\\Users\\ArulanandhaGuru\\Documents\\MCPs\\FlociGCP\\mcp-server\\.venv\\Scripts\\floci-mcp.exe",
+      "args": []
+    }
+  }
+}
